@@ -1,0 +1,586 @@
+1,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+1,"t","Commercial Red Meat Production – United States"
+1,"t","[Totals, accumulated totals, and percentages based on unrounded data]"
+1,"h","","","","","","","","",""
+1,"h","","","","","October 2020 as % of","October 2020 as % of","January to October","January to October","January to October"
+1,"h","","October","September","October","","","","",""
+1,"h","Type","2019","2020","2020","October","September","","","2020 as %"
+1,"h","","","","","2019","2020","2019","2020","of 2019"
+1,"h","","","","","","","","",""
+1,"u","","(million pounds)","(million pounds)","(million pounds)","(percent)","(percent)","(million pounds)","(million pounds)","(percent)"
+1,"d","Beef",2439.3,2354.5,2471.5,101,105,22592.8,22564.9,100
+1,"d","Veal",7.1,4.9,5.3,76,110,61.8,53.8,87
+1,"d","Pork",2606.4,2335.9,2598.6,100,111,22765.8,23384.1,103
+1,"d","Lamb and mutton",12.8,10.9,10.6,83,98,125.2,115.4,92
+1,"d","",,,,,,,,
+1,"d","Total red meat",5065.6,4706.1,5086.0,100,108,45545.5,46118.1,101
+1,"c",""
+2,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+2,"t","Federally Inspected Red Meat Production – United States"
+2,"t","[Totals, accumulated totals, and percentages based on unrounded data]"
+2,"h","","","","","","","","",""
+2,"h","","","","","October 2020 as % of","October 2020 as % of","January to October","January to October","January to October"
+2,"h","","October","September","October","","","","",""
+2,"h","Type","2019","2020","2020","October","September","","","2020 as %"
+2,"h","","","","","2019","2020","2019","2020","of 2019"
+2,"h","","","","","","","","",""
+2,"u","","(million pounds)","(million pounds)","(million pounds)","(percent)","(percent)","(million pounds)","(million pounds)","(percent)"
+2,"d","Beef",2403.9,2315.3,2431.9,101,105,22310.3,22214.1,100
+2,"d","Veal",6.9,4.7,5.2,75,111,60.4,52.2,86
+2,"d","Pork",2593.4,2322.5,2585.8,100,111,22654.8,23259.3,103
+2,"d","Lamb and mutton",11.5,9.4,9.2,80,97,112.7,102.9,91
+2,"d","",,,,,,,,
+2,"d","Total red meat",5015.6,4651.9,5032.1,100,108,45138.2,45628.5,101
+2,"c",""
+3,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+3,"t","Livestock Slaughter and Average Live Weight – United States"
+3,"t","[Totals, accumulated totals, and percentages based on unrounded data]"
+3,"h","","","","","","","","",""
+3,"h","","","","","","October","January to October","January to October","January to October"
+3,"h","","","October","September","October","2020 as %","","",""
+3,"h","Species","","2019","2020","2020","of 2019","","","2020 as %"
+3,"h","","","","","","","2019","2020","of 2019"
+3,"h","","","","","","","","",""
+3,"u","","","","","(percent)","","","(percent)"
+3,"d","Cattle","",,,,,,,
+3,"d","Number of head","",,,,,,,
+3,"d","  Federally inspected","1,000",2926.0,2755.7,2888.1,99,27619.6,26759.9,97
+3,"d","  Other","1,000",51.6,57.1,57.4,111,410.3,513.1,125
+3,"d","  Commercial","1,000",2977.6,2812.8,2945.5,99,28029.9,27273.0,97
+3,"d","Average live weight","",,,,,,,
+3,"d","  Federally inspected","pounds",1363,1382,1389,102,1341,1373,102
+3,"d","  Other","pounds",1194,1207,1214,102,1195,1203,101
+3,"d","  Commercial","pounds",1360,1379,1385,102,1338,1370,102
+3,"d","","",,,,,,,
+3,"d","Calves","",,,,,,,
+3,"d","Number of head","",,,,,,,
+3,"d","  Federally inspected","1,000",54.6,31.6,36.3,67,483.6,372.5,77
+3,"d","  Other","1,000",0.8,0.8,0.7,90,7.0,8.2,118
+3,"d","  Commercial","1,000",55.4,32.4,37.1,67,490.6,380.7,78
+3,"d","Average live weight","",,,,,,,
+3,"d","  Federally inspected","pounds",220,258,248,113,217,243,112
+3,"d","  Other","pounds",372,390,366,98,370,364,98
+3,"d","  Commercial","pounds",222,261,250,113,219,246,112
+3,"d","","",,,,,,,
+3,"d","Hogs","",,,,,,,
+3,"d","Number of head","",,,,,,,
+3,"d","  Federally inspected","1,000",12233.2,10957.1,11949.3,98,106595.6,108401.6,102
+3,"d","  Other","1,000",69.3,69.8,67.4,97,591.9,652.7,110
+3,"d","  Commercial","1,000",12302.5,11026.9,12016.6,98,107187.5,109054.4,102
+3,"d","Average live weight","",,,,,,,
+3,"d","  Federally inspected","pounds",285,285,291,102,285,288,101
+3,"d","  Other","pounds",259,264,261,101,257,262,102
+3,"d","  Commercial","pounds",285,285,291,102,284,288,101
+3,"d","","",,,,,,,
+3,"d","Sheep and lambs","",,,,,,,
+3,"d","Number of head","",,,,,,,
+3,"d","  Federally inspected","1,000",179.8,154.4,151.0,84,1688.6,1574.1,93
+3,"d","  Other","1,000",26.2,30.7,31.3,119,255.6,266.8,104
+3,"d","  Commercial","1,000",206.0,185.1,182.3,89,1944.2,1840.8,95
+3,"d","Average live weight","",,,,,,,
+3,"d","  Federally inspected","pounds",127,121,121,95,133,130,98
+3,"d","  Other","pounds",102,98,96,94,101,97,96
+3,"d","  Commercial","pounds",124,117,116,94,129,125,97
+3,"d","","",,,,,,,
+3,"d","Goats","",,,,,,,
+3,"d","Number of head","",,,,,,,
+3,"d","  Federally inspected","1,000",48.9,44.3,46.0,94,447.0,421.6,94
+3,"d","  Other","1,000",12.4,8.6,10.9,88,105.6,88.1,83
+3,"d","  Commercial","1,000",61.4,52.9,57.0,93,552.6,509.7,92
+3,"d","Average live weight","",,,,,,,
+3,"d","  Federally inspected","pounds",66,65,65,98,65,64,99
+3,"d","  Other","pounds",89,86,84,95,82,85,104
+3,"d","  Commercial","pounds",70,68,68,97,68,68,100
+3,"d","","",,,,,,,
+3,"d","Bison","",,,,,,,
+3,"d","Number of head","",,,,,,,
+3,"d","  Federally inspected","1,000",5.0,4.8,5.5,110,45.5,52.3,115
+3,"d","  Other","1,000",0.5,0.3,0.3,63,4.6,3.5,76
+3,"d","  Commercial","1,000",5.5,5.1,5.8,105,50.1,55.8,111
+3,"c",""
+4,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+4,"t","Commercial Red Meat Production – States and United States"
+4,"t","[Includes total beef, veal, pork, lamb, and mutton. Totals and percentages based on unrounded data]"
+4,"h","","","","",""
+4,"h","State","October","September","October","October 2020 as"
+4,"h","","2019","2020","2020","% of 2019"
+4,"h","","","","",""
+4,"u","","(million pounds)","(million pounds)","(million pounds)","(percent)"
+4,"d","Alabama",0.7,1.1,1.2,164
+4,"d","Alaska",0.1,0.1,0.1,93
+4,"d","Arizona",41.1,39.5,40.2,98
+4,"d","Arkansas",0.4,0.6,0.6,149
+4,"d","California",149.7,140.7,152.1,102
+4,"d","Colorado",205.2,183.1,186.9,91
+4,"d","Delaware-Maryland",3.1,3.2,3.0,97
+4,"d","Florida",3.4,4.0,4.0,115
+4,"d","Georgia",15.2,14.1,15.4,102
+4,"d","Hawaii",0.8,0.9,1.0,129
+4,"d","",,,,
+4,"d","Idaho",33.9,33.3,36.3,107
+4,"d","Illinois",328.2,296.3,320.1,98
+4,"d","Indiana",171.1,149.9,164.6,96
+4,"d","Iowa",817.3,744.0,819.3,100
+4,"d","Kansas",424.2,508.3,554.5,131
+4,"d","Kentucky",55.0,52.2,59.5,108
+4,"d","Louisiana",0.4,0.4,0.4,97
+4,"d","Michigan",98.6,107.1,118.6,120
+4,"d","Minnesota",274.1,250.5,264.8,97
+4,"d","Mississippi",0.6,0.7,0.8,130
+4,"d","",,,,
+4,"d","Missouri",178.7,164.7,179.4,100
+4,"d","Montana",4.0,2.7,3.3,83
+4,"d","Nebraska",781.8,690.5,737.9,94
+4,"d","Nevada",0.1,0.1,0.1,64
+4,"d","New England 1/",2.9,3.0,3.2,109
+4,"d","New Jersey",3.6,3.8,3.6,99
+4,"d","New Mexico",0.4,0.4,0.5,125
+4,"d","New York",3.4,3.4,3.5,105
+4,"d","North Carolina",259.6,209.8,246.3,95
+4,"d","North Dakota",0.7,0.9,0.7,108
+4,"d","",,,,
+4,"d","Ohio",25.6,24.8,26.5,104
+4,"d","Oklahoma",108.8,110.7,126.4,116
+4,"d","Oregon",4.2,4.2,4.9,117
+4,"d","Pennsylvania",143.3,118.6,120.8,84
+4,"d","South Carolina",14.1,15.5,16.7,118
+4,"d","South Dakota",142.1,126.6,142.5,100
+4,"d","Tennessee",26.3,27.0,28.8,109
+4,"d","Texas",435.7,400.3,408.6,94
+4,"d","Utah",52.4,51.3,51.7,99
+4,"d","Virginia",52.1,27.6,38.3,74
+4,"d","",,,,
+4,"d","Washington",90.9,83.9,86.4,95
+4,"d","West Virginia",1.2,1.3,1.4,114
+4,"d","Wisconsin",110.5,104.8,110.9,100
+4,"d","Wyoming",0.1,0.4,0.3,180
+4,"d","",,,,
+4,"d","United States",5065.6,4706.1,5086.0,100
+4,"c",""
+4,"f","1/ New England includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont."
+5,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+5,"t","Commercial Cattle Slaughter – States and United States: October 2019 and 2020"
+5,"t","[Data may not add to totals due to rounding]"
+5,"h","","","","","","",""
+5,"h","","Slaughtered","Slaughtered","Total live weight","Total live weight","Average live weight","Average live weight"
+5,"h","State","","","","","",""
+5,"h","","2019","2020","2019","2020","2019","2020"
+5,"h","","","","","","",""
+5,"u","","(1,000 head)","(1,000 head)","(1,000 pounds)","(1,000 pounds)","(pounds)","(pounds)"
+5,"d","Alabama",0.5,1.2,517,1272,1031,1104
+5,"d","Alaska",0.1,0.1,66,65,1112,1087
+5,"d","Arizona",48.6,45.8,67380,65354,1390,1431
+5,"d","Arkansas",0.4,0.8,408,758,931,943
+5,"d","California",140.8,135.7,186681,181234,1335,1343
+5,"d","Colorado",227.6,203.5,317462,290728,1396,1429
+5,"d","Delaware-Maryland",3.3,3.1,4357,4261,1341,1367
+5,"d","Florida","(D)","(D)","(D)","(D)","(D)","(D)"
+5,"d","Georgia","(D)","(D)","(D)","(D)","(D)","(D)"
+5,"d","Hawaii",1.1,1.5,1231,1643,1078,1119
+5,"d","",,,,,,
+5,"d","Idaho",47.1,49.8,60074,63267,1287,1283
+5,"d","Illinois","(D)","(D)","(D)","(D)","(D)","(D)"
+5,"d","Indiana",3.5,3.8,4125,4457,1168,1172
+5,"d","Iowa","(D)","(D)","(D)","(D)","(D)","(D)"
+5,"d","Kansas",470.6,610.7,650961,856342,1384,1403
+5,"d","Kentucky",4.0,3.9,4180,4236,1048,1079
+5,"d","Louisiana",0.5,0.5,392,435,723,809
+5,"d","Michigan","(D)","(D)","(D)","(D)","(D)","(D)"
+5,"d","Minnesota","(D)","(D)","(D)","(D)","(D)","(D)"
+5,"d","Mississippi",0.4,0.8,361,695,919,906
+5,"d","",,,,,,
+5,"d","Missouri",3.8,8.2,4393,9194,1141,1131
+5,"d","Montana",4.1,3.4,5556,4571,1363,1363
+5,"d","Nebraska",711.6,644.4,1015301,944684,1428,1467
+5,"d","Nevada",0.1,0.1,152,112,1023,1276
+5,"d","New England 1/",3.1,3.5,3400,3980,1106,1142
+5,"d","New Jersey",3.7,3.8,4172,4144,1135,1106
+5,"d","New Mexico",0.6,0.6,585,693,986,1080
+5,"d","New York",3.5,3.8,4022,4598,1175,1223
+5,"d","North Carolina",8.2,7.6,10064,9277,1231,1222
+5,"d","North Dakota",0.8,0.9,1009,1151,1257,1233
+5,"d","",,,,,,
+5,"d","Ohio",7.0,7.2,9087,9388,1300,1310
+5,"d","Oklahoma",2.7,4.6,2797,5316,1028,1154
+5,"d","Oregon",1.7,2.4,1910,2758,1098,1159
+5,"d","Pennsylvania",105.2,73.6,125104,84833,1193,1160
+5,"d","South Carolina",22.7,24.3,27108,32508,1200,1345
+5,"d","South Dakota",46.3,46.0,64916,65304,1410,1426
+5,"d","Tennessee",2.2,3.3,2041,3274,949,1018
+5,"d","Texas",541.2,500.2,706456,660389,1309,1324
+5,"d","Utah",61.8,59.0,83690,82569,1355,1401
+5,"d","Virginia",1.8,1.9,1876,1982,1045,1047
+5,"d","",,,,,,
+5,"d","Washington",105.4,97.2,147954,140135,1408,1447
+5,"d","West Virginia",1.9,2.1,1713,2133,916,993
+5,"d","Wisconsin",124.5,123.2,169736,169342,1372,1382
+5,"d","Wyoming",0.2,0.3,193,349,1153,1144
+5,"d","",,,,,,
+5,"d","United States",2977.6,2945.5,4041157,4072095,1360,1385
+5,"c",""
+5,"f","(D)  Withheld to avoid disclosing data for individual operations."
+5,"f","1/ New England includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont."
+6,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+6,"t","Commercial Calf Slaughter – States and United States: October 2019 and 2020"
+6,"t","[Data may not add to totals due to rounding]"
+6,"h","","","","","","",""
+6,"h","","Slaughtered","Slaughtered","Total live weight","Total live weight","Average live weight","Average live weight"
+6,"h","State","","","","","",""
+6,"h","","2019","2020","2019","2020","2019","2020"
+6,"h","","","","","","",""
+6,"u","","(1,000 head)","(1,000 head)","(1,000 pounds)","(1,000 pounds)","(pounds)","(pounds)"
+6,"d","Alabama","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","Alaska","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Arizona","(D)","(Y)","(D)","(X)","(D)","(X)"
+6,"d","Arkansas","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","California",6.2,4.0,668,506,110,132
+6,"d","Colorado","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Delaware-Maryland","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Florida",0.1,0.1,24,48,439,451
+6,"d","Georgia",0.1,0.2,53,86,446,490
+6,"d","Hawaii","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","",,,,,,
+6,"d","Idaho",3.1,1.5,271,121,87,81
+6,"d","Illinois",0.1,0.1,32,20,385,301
+6,"d","Indiana",0.4,0.5,129,199,311,385
+6,"d","Iowa","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Kansas",0.1,"(Y)",25,"(X)",454,"(X)"
+6,"d","Kentucky","(D)","(Y)","(D)","(X)","(D)","(X)"
+6,"d","Louisiana","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","Michigan",0.1,0.1,30,40,300,400
+6,"d","Minnesota","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","Mississippi","(D)","(Y)","(D)","(X)","(D)","(X)"
+6,"d","",,,,,,
+6,"d","Missouri","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","Montana","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","Nebraska","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Nevada","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","New England 1/",0.3,0.2,83,54,245,274
+6,"d","New Jersey",2.0,1.6,757,592,379,373
+6,"d","New Mexico","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","New York",9.7,6.7,832,561,87,84
+6,"d","North Carolina",0.1,0.1,20,37,370,338
+6,"d","North Dakota","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","",,,,,,
+6,"d","Ohio",16.6,10.9,2337,1738,141,161
+6,"d","Oklahoma","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","Oregon","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Pennsylvania",10.5,7.1,4458,3207,424,450
+6,"d","South Carolina","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","South Dakota","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Tennessee","(Y)","(Y)","(X)","(X)","(X)","(X)"
+6,"d","Texas",0.3,0.3,112,144,423,430
+6,"d","Utah","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Virginia","(D)",0.1,"(D)",18,"(D)",281
+6,"d","",,,,,,
+6,"d","Washington",0.6,"(D)",51,"(D)",82,"(D)"
+6,"d","West Virginia","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","Wisconsin",4.6,3.3,2160,1758,473,527
+6,"d","Wyoming","(D)","(D)","(D)","(D)","(D)","(D)"
+6,"d","",,,,,,
+6,"d","United States",55.4,37.1,12218,9212,222,250
+6,"c",""
+6,"f","(D)  Withheld to avoid disclosing data for individual operations."
+6,"f","(X)  Not applicable."
+6,"f","(Y)  Less than level of precision shown."
+6,"f","1/ New England includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont."
+7,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+7,"t","Commercial Hog Slaughter – States and United States: October 2019 and 2020"
+7,"t","[Data may not add to totals due to rounding]"
+7,"h","","","","","","",""
+7,"h","","Slaughtered","Slaughtered","Total live weight","Total live weight","Average live weight","Average live weight"
+7,"h","State","","","","","",""
+7,"h","","2019","2020","2019","2020","2019","2020"
+7,"h","","","","","","",""
+7,"u","","(1,000 head)","(1,000 head)","(1,000 pounds)","(1,000 pounds)","(pounds)","(pounds)"
+7,"d","Alabama",1.7,1.7,630,640,367,387
+7,"d","Alaska",0.1,0.1,29,20,273,289
+7,"d","Arizona",0.2,0.1,41,33,269,246
+7,"d","Arkansas",0.8,0.7,249,208,306,279
+7,"d","California",238.1,245.1,59920,67063,252,274
+7,"d","Colorado",1.5,1.6,360,393,247,245
+7,"d","Delaware-Maryland",1.7,1.6,448,451,267,280
+7,"d","Florida",6.1,5.3,729,610,119,115
+7,"d","Georgia",6.0,5.5,1442,1373,242,250
+7,"d","Hawaii",0.3,0.4,94,97,270,266
+7,"d","",,,,,,
+7,"d","Idaho",15.3,15.4,3993,4332,262,281
+7,"d","Illinois",1194.7,1139.0,341095,329696,286,290
+7,"d","Indiana",795.3,771.1,224747,217358,283,282
+7,"d","Iowa",3704.2,3696.2,1054037,1059570,285,287
+7,"d","Kansas","(D)","(D)","(D)","(D)","(D)","(D)"
+7,"d","Kentucky","(D)","(D)","(D)","(D)","(D)","(D)"
+7,"d","Louisiana",0.7,0.5,160,110,215,201
+7,"d","Michigan",269.3,336.5,80409,99835,299,297
+7,"d","Minnesota",1144.8,1117.4,317009,310961,277,278
+7,"d","Mississippi",3.2,3.2,536,538,167,169
+7,"d","",,,,,,
+7,"d","Missouri",804.5,781.9,235633,233386,293,299
+7,"d","Montana",2.9,2.3,822,659,284,282
+7,"d","Nebraska",730.8,719.6,207943,205651,285,286
+7,"d","Nevada","(Y)","(Y)","(X)","(X)","(X)","(X)"
+7,"d","New England 1/",4.0,3.5,1026,992,259,284
+7,"d","New Jersey",8.5,5.9,813,727,96,122
+7,"d","New Mexico",0.3,0.3,89,87,294,278
+7,"d","New York",2.6,2.8,645,714,251,253
+7,"d","North Carolina","(D)","(D)","(D)","(D)","(D)","(D)"
+7,"d","North Dakota",0.4,0.3,126,96,294,285
+7,"d","",,,,,,
+7,"d","Ohio",91.4,94.2,25610,26898,281,286
+7,"d","Oklahoma",520.4,562.3,141479,163270,272,290
+7,"d","Oregon",14.3,14.5,3733,4071,262,281
+7,"d","Pennsylvania",320.2,315.9,90756,90419,283,286
+7,"d","South Carolina",3.0,2.3,709,563,239,240
+7,"d","South Dakota","(D)","(D)","(D)","(D)","(D)","(D)"
+7,"d","Tennessee",83.6,91.4,37716,40450,452,443
+7,"d","Texas",29.6,27.1,5858,5604,198,207
+7,"d","Utah",5.0,3.0,656,678,133,228
+7,"d","Virginia","(D)","(D)","(D)","(D)","(D)","(D)"
+7,"d","",,,,,,
+7,"d","Washington",1.3,2.0,333,498,259,248
+7,"d","West Virginia",1.1,1.0,323,290,292,299
+7,"d","Wisconsin",66.6,69.1,28575,29377,430,426
+7,"d","Wyoming",0.1,0.2,38,54,284,266
+7,"d","",,,,,,
+7,"d","United States",12302.5,12016.6,3498867,3493495,285,291
+7,"c",""
+7,"f","(D)  Withheld to avoid disclosing data for individual operations."
+7,"f","(X)  Not applicable."
+7,"f","(Y)  Less than level of precision shown."
+7,"f","1/ New England includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont."
+8,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+8,"t","Commercial Sheep and Lamb Slaughter – States and United States: October 2019 and 2020"
+8,"t","[Data may not add to totals due to rounding]"
+8,"h","","","","","","",""
+8,"h","","Slaughtered","Slaughtered","Total live weight","Total live weight","Average live weight","Average live weight"
+8,"h","State","","","","","",""
+8,"h","","2019","2020","2019","2020","2019","2020"
+8,"h","","","","","","",""
+8,"u","","(1,000 head)","(1,000 head)","(1,000 pounds)","(1,000 pounds)","(pounds)","(pounds)"
+8,"d","Alabama","(Y)",1.1,"(X)",70,"(X)",67
+8,"d","Alaska","(Y)","(Y)","(X)","(X)","(X)","(X)"
+8,"d","Arizona",0.6,0.2,69,25,122,132
+8,"d","Arkansas","(Y)",0.1,"(X)",8,"(X)",106
+8,"d","California",25.7,23.3,3591,3143,140,135
+8,"d","Colorado",69.2,43.2,10367,6191,150,143
+8,"d","Delaware-Maryland",3.4,2.8,311,265,93,96
+8,"d","Florida",1.6,2.0,93,110,56,56
+8,"d","Georgia",2.6,1.3,160,96,61,76
+8,"d","Hawaii",0.1,0.1,13,12,143,132
+8,"d","",,,,,,
+8,"d","Idaho",0.3,0.2,35,24,118,135
+8,"d","Illinois",5.0,4.7,430,361,86,77
+8,"d","Indiana",4.8,6.2,501,679,104,110
+8,"d","Iowa",0.2,0.3,32,43,149,155
+8,"d","Kansas",0.5,0.5,48,49,98,100
+8,"d","Kentucky",1.7,1.4,199,160,118,113
+8,"d","Louisiana",0.4,0.4,22,22,56,55
+8,"d","Michigan","(D)","(D)","(D)","(D)","(D)","(D)"
+8,"d","Minnesota",0.6,0.6,57,55,94,96
+8,"d","Mississippi",0.6,0.4,36,22,63,56
+8,"d","",,,,,,
+8,"d","Missouri",1.0,1.0,82,88,84,87
+8,"d","Montana",0.8,0.6,115,85,143,134
+8,"d","Nebraska",0.1,0.1,10,7,101,84
+8,"d","Nevada",0.1,0.1,9,9,109,131
+8,"d","New England 1/",4.3,4.2,415,397,96,94
+8,"d","New Jersey",13.7,15.2,1081,1229,79,81
+8,"d","New Mexico",0.4,0.6,60,79,138,137
+8,"d","New York",5.1,4.6,488,465,95,102
+8,"d","North Carolina",1.7,2.9,118,204,71,69
+8,"d","North Dakota",0.1,"(Y)",11,"(X)",161,"(X)"
+8,"d","",,,,,,
+8,"d","Ohio",5.4,5.7,836,870,155,154
+8,"d","Oklahoma",0.7,1.3,67,119,92,90
+8,"d","Oregon",4.9,4.5,636,574,131,127
+8,"d","Pennsylvania",7.4,10.5,736,1085,99,104
+8,"d","South Carolina","(D)","(D)","(D)","(D)","(D)","(D)"
+8,"d","South Dakota",0.4,0.3,64,52,158,160
+8,"d","Tennessee",1.3,"(D)",85,"(D)",65,"(D)"
+8,"d","Texas",14.8,19.7,1261,1639,85,83
+8,"d","Utah",2.1,1.8,292,231,138,131
+8,"d","Virginia",0.8,1.0,61,75,80,72
+8,"d","",,,,,,
+8,"d","Washington",1.6,1.5,210,205,132,134
+8,"d","West Virginia","(D)","(D)","(D)","(D)","(D)","(D)"
+8,"d","Wisconsin",1.4,3.5,204,517,142,148
+8,"d","Wyoming","(Y)",0.1,"(X)",8,"(X)",121
+8,"d","",,,,,,
+8,"d","United States",206.0,182.3,25568,21203,124,116
+8,"c",""
+8,"f","(D)  Withheld to avoid disclosing data for individual operations."
+8,"f","(X)  Not applicable."
+8,"f","(Y)  Less than level of precision shown."
+8,"f","1/ New England includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont."
+9,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+9,"t","Livestock Slaughtered Under Federal Inspection by Class – United States"
+9,"t","[Data may not add to totals due to rounding]"
+9,"h","","","","","","","","","","",""
+9,"h","","","","","January to October","January to October","","","","January to October","January to October"
+9,"h","Class","October","September","October","","","October","September","October","",""
+9,"h","","2019","2020","2020","2019","2020","2019","2020","2020","2019","2020"
+9,"h","","","","","","","","","","",""
+9,"u","","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(percent of total)","(percent of total)","(percent of total)","(percent of total)","(percent of total)"
+9,"d","Cattle",,,,,,,,,,
+9,"d","Steers",1368.7,1389.2,1413.3,13691.6,13241.9,46.8,50.4,48.9,49.6,49.5
+9,"d","Heifers",912.2,801.5,861.8,8161.9,7838.9,31.2,29.1,29.8,29.6,29.3
+9,"d","All cows",594.1,516.4,563.5,5315.0,5242.9,20.3,18.7,19.5,19.2,19.6
+9,"d","Dairy cows",286.1,250.4,258.9,2702.7,2560.6,9.8,9.1,9.0,9.8,9.6
+9,"d","Other cows",307.9,266.0,304.6,2612.3,2682.3,10.5,9.7,10.5,9.5,10.0
+9,"d","Bulls",51.1,48.6,49.5,451.0,436.3,1.7,1.8,1.7,1.6,1.6
+9,"d","",,,,,,,,,,
+9,"d","Total",2926.0,2755.7,2888.1,27619.6,26759.9,100.0,100.0,100.0,100.0,100.0
+9,"d","",,,,,,,,,,
+9,"d","Calves and",,,,,,,,,,
+9,"d"," vealers",54.6,31.6,36.3,483.6,372.5,100.0,100.0,100.0,100.0,100.0
+9,"d","",,,,,,,,,,
+9,"d","Hogs",,,,,,,,,,
+9,"d","Barrows and",,,,,,,,,,
+9,"d","  gilts",11932.8,10655.9,11644.5,103785.0,105352.8,97.5,97.3,97.4,97.4,97.2
+9,"d","Sows",277.0,276.1,278.1,2512.2,2786.5,2.3,2.5,2.3,2.4,2.6
+9,"d","Boars",23.4,25.2,26.7,298.4,262.4,0.2,0.2,0.2,0.3,0.2
+9,"d","",,,,,,,,,,
+9,"d","Total",12233.2,10957.1,11949.3,106595.6,108401.6,100.0,100.0,100.0,100.0,100.0
+9,"d","",,,,,,,,,,
+9,"d","Sheep",,,,,,,,,,
+9,"d","Mature",,,,,,,,,,
+9,"d","  sheep",9.9,10.0,9.5,94.8,93.7,5.5,6.5,6.3,5.6,6.0
+9,"d","Lambs and",,,,,,,,,,
+9,"d","  yearlings",169.8,144.3,141.5,1593.8,1480.4,94.5,93.5,93.7,94.4,94.0
+9,"d","",,,,,,,,,,
+9,"d","Total",179.8,154.4,151.0,1688.6,1574.1,100.0,100.0,100.0,100.0,100.0
+9,"c",""
+17,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+17,"t","Federally Inspected Slaughter Average Dressed Weight by Class – United States"
+17,"t","[Data may not add to totals due to rounding]"
+17,"h","","","","","",""
+17,"h","","","","","January to October","January to October"
+17,"h","Class","October","September","October","",""
+17,"h","","2019","2020","2020","2019","2020"
+17,"h","","","","","",""
+17,"u","","(pounds)","(pounds)","(pounds)","(pounds)","(pounds)"
+17,"d","Cattle",823,842,844,810,832
+17,"d","Steers 1/",902,921,928,872,905
+17,"d","Heifers 1/",830,836,847,808,832
+17,"d","All cows 1/",628,633,623,642,643
+17,"d","Bulls 1/",855,887,872,882,883
+17,"d","",,,,,
+17,"d","Calves and vealers",127,150,144,126,141
+17,"d","",,,,,
+17,"d","Hogs",212,212,216,213,215
+17,"d","Barrows and gilts 2/",210,210,214,210,212
+17,"d","Sows 2/",305,306,303,304,304
+17,"d","Boars 2/",223,187,194,196,193
+17,"d","",,,,,
+17,"d","Sheep",64,61,61,67,65
+17,"d","Mature sheep 3/",65,64,63,65,66
+17,"d","Lambs and yearlings 3/",64,61,61,67,65
+17,"c",""
+17,"f","1/ Included in cattle average dressed weight."
+17,"f","2/ Included in hog average dressed weight."
+17,"f","3/ Included in sheep average dressed weight."
+10,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+10,"t","Federally Inspected Slaughter – Regions and United States: October 2020"
+10,"t","[Data may not add to totals due to rounding]"
+10,"h","","","","","","","","",""
+10,"h","","Cattle","Cattle","Cattle","Cattle","Cattle","Cattle","Cattle","Calves"
+10,"h","Standard","","","","","","","",""
+10,"h","federal","","","","Cows","Cows","Cows","",""
+10,"h","regions 1/","Total","Steers","Heifers","","","","Bulls","Total"
+10,"h","","","","","All","Dairy","Other","",""
+10,"h","","","","","","","","",""
+10,"u","","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)"
+10,"d","1",3.2,1.4,"(D)",0.6,0.3,0.3,"(D)",0.2
+10,"d","2",7.4,2.5,1.5,3.1,2.9,0.2,0.3,8.3
+10,"d","3",76.1,23.7,2.8,45.8,37.4,8.4,3.8,7.3
+10,"d","4",70.9,5.2,1.4,53.4,13.9,39.5,10.8,0.3
+10,"d","5",303.6,136.8,"(D)",117.5,71.0,46.5,"(D)",14.7
+10,"d","6",499.1,231.3,161.3,99.2,25.3,74.0,7.3,0.1
+10,"d","7",1291.4,725.2,491.5,65.2,8.3,56.9,9.5,"(Y)"
+10,"d","8",305.9,167.9,102.7,33.7,7.5,26.2,1.7,"(Y)"
+10,"d","9",182.5,73.7,20.4,85.8,64.7,21.0,2.7,3.8
+10,"d","10",148.0,45.5,39.8,59.3,27.6,31.7,3.4,1.5
+10,"d","",,,,,,,,
+10,"d","United States",2888.1,1413.3,861.8,563.5,258.9,304.6,49.5,36.3
+10,"h","","","","","","","",""
+10,"h","","Hogs","Hogs","Hogs","Hogs","Sheep","Sheep","Sheep"
+10,"h","","","","","","","",""
+10,"h","","Total","Barrows","","","Total","Mature","Lambs and"
+10,"h","","","and gilts","Sows","Boars","","sheep","yearlings"
+10,"h","","","","","","","",""
+10,"u","","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)"
+10,"d","1",3.2,3.1,"(Y)","(Y)",4.0,0.4,3.6
+10,"d","2",8.6,8.6,"(Y)","(Y)",19.4,2.2,17.1
+10,"d","3",476.9,475.8,"(D)","(D)",14.9,1.1,13.7
+10,"d","4","(D)","(D)","(D)","(D)",9.1,1.1,8.0
+10,"d","5",3497.9,3368.6,124.0,5.3,26.1,1.9,24.3
+10,"d","6",585.3,584.9,0.4,"(Y)",4.4,0.4,4.0
+10,"d","7",5206.0,5127.1,62.4,16.4,1.3,"(Y)",1.3
+10,"d","8","(D)","(D)",0.6,"(Y)",44.5,1.3,43.2
+10,"d","9",241.8,241.8,"(Y)","(Y)",22.0,0.7,21.3
+10,"d","10",31.2,31.2,"(Y)","(Y)",5.2,0.3,4.9
+10,"d","",,,,,,,
+10,"d","United States",11949.3,11644.5,278.1,26.7,151.0,9.5,141.5
+10,"c",""
+10,"f","(D)  Withheld to avoid disclosing data for individual operations."
+10,"f","(Y)  Less than level of precision shown."
+10,"f","1/ States included in regions are as follows:  1 - Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont; 2 - New Jersey, New York; 3 - Delaware-Maryland, Pennsylvania, Virginia, West Virginia; 4 - Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee; 5 - Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin; 6 - Arkansas, Louisiana, New Mexico, Oklahoma, Texas; 7 - Iowa, Kansas, Missouri, Nebraska; 8- Colorado, Montana, North Dakota, South Dakota, Utah, Wyoming; 9 - Arizona, California, Hawaii, Nevada; 10 - Alaska, Idaho, Oregon, Washington."
+11,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+11,"t","Federally Inspected Slaughter – Regions and United States: January to October 2020"
+11,"t","[Data may not add to totals due to rounding]"
+11,"h","","","","","","","","",""
+11,"h","","Cattle","Cattle","Cattle","Cattle","Cattle","Cattle","Cattle","Calves"
+11,"h","Standard","","","","","","","",""
+11,"h","federal","","","","Cows","Cows","Cows","",""
+11,"h","regions 1/","Total","Steers","Heifers","","","","Bulls","Total"
+11,"h","","","","","All","Dairy","Other","",""
+11,"h","","","","","","","","",""
+11,"u","","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)"
+11,"d","1",27.7,11.9,"(D)",5.3,2.6,2.7,"(D)",2.3
+11,"d","2",72.9,22.3,15.5,31.5,29.4,2.1,3.6,84.8
+11,"d","3",850.9,290.1,30.8,495.6,404.0,91.5,34.4,79.1
+11,"d","4",661.7,48.0,15.3,512.2,146.7,365.5,86.2,2.6
+11,"d","5",2706.4,1302.8,"(D)",985.2,604.9,380.3,"(D)",123.2
+11,"d","6",4695.3,2211.7,1477.0,928.1,285.0,643.1,78.5,0.9
+11,"d","7",11723.1,6597.4,4457.1,589.5,75.4,514.1,79.2,0.4
+11,"d","8",2881.7,1542.4,981.1,344.4,81.3,263.1,13.8,"(Y)"
+11,"d","9",1810.7,770.1,210.1,805.8,637.7,168.2,24.6,44.8
+11,"d","10",1329.3,445.1,309.4,545.2,293.6,251.7,29.6,34.2
+11,"d","",,,,,,,,
+11,"d","United States",26759.9,13241.9,7838.9,5242.9,2560.6,2682.3,436.3,372.5
+11,"h","","","","","","","",""
+11,"h","","Hogs","Hogs","Hogs","Hogs","Sheep","Sheep","Sheep"
+11,"h","","","","","","","",""
+11,"h","","Total","Barrows","","","Total","Mature","Lambs and"
+11,"h","","","and gilts","Sows","Boars","","sheep","yearlings"
+11,"h","","","","","","","",""
+11,"u","","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)","(1,000 head)"
+11,"d","1",26.2,25.8,0.3,0.1,35.5,2.4,33.1
+11,"d","2",78.8,78.4,0.3,0.1,186.4,19.9,166.5
+11,"d","3",4684.0,4673.5,"(D)","(D)",126.8,12.3,114.5
+11,"d","4","(D)","(D)","(D)","(D)",107.3,11.3,96.0
+11,"d","5",31844.8,30502.4,1294.7,47.7,256.1,20.1,236.1
+11,"d","6",5086.3,5084.8,1.3,0.2,49.7,3.0,46.7
+11,"d","7",47462.1,46657.1,650.2,154.8,11.7,0.2,11.5
+11,"d","8","(D)","(D)",6.6,0.2,517.5,14.9,502.7
+11,"d","9",2191.2,2190.8,0.3,0.1,236.9,7.3,229.5
+11,"d","10",289.2,288.7,0.4,0.1,46.1,2.3,43.7
+11,"d","",,,,,,,
+11,"d","United States",108401.6,105352.8,2786.5,262.4,1574.1,93.7,1480.4
+11,"c",""
+11,"f","(D)  Withheld to avoid disclosing data for individual operations."
+11,"f","(Y)  Less than level of precision shown."
+11,"f","1/ States included in regions are as follows:  1 - Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont; 2 - New Jersey, New York; 3 - Delaware-Maryland, Pennsylvania, Virginia, West Virginia; 4 - Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee; 5 - Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin; 6 - Arkansas, Louisiana, New Mexico, Oklahoma, Texas; 7 - Iowa, Kansas, Missouri, Nebraska; 8- Colorado, Montana, North Dakota, South Dakota, Utah, Wyoming; 9 - Arizona, California, Hawaii, Nevada; 10 - Alaska, Idaho, Oregon, Washington."
+12,"t","Livestock Slaughter: Released November 19, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+12,"t","Federally Inspected Slaughter Percent of Total Commercial Slaughter – United States"
+12,"h","","","","","",""
+12,"h","","","","","January to October","January to October"
+12,"h","Species","October","September","October","",""
+12,"h","","2019","2020","2020","2019","2020"
+12,"h","","","","","",""
+12,"u","","(percent)","(percent)","(percent)","(percent)","(percent)"
+12,"d","Cattle",98.3,98.0,98.0,98.5,98.1
+12,"d","Calves",98.5,97.5,98.0,98.6,97.8
+12,"d","Hogs",99.4,99.4,99.4,99.4,99.4
+12,"d","Sheep",87.3,83.4,82.8,86.9,85.5
+12,"c",""
