@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<0>
+		<name>1984</name>
+		<author>George Orwell</author>
+		<author>Erich Fromm</author>
+		<rantings>4.7</rantings>
+		<price>15.85</price>
+		<publish_date>January 1, 1961</publish_date>
+	</0>
+	<1>
+		<name>Animal Farm</name>
+		<author>George Orwell</author>
+		<rantings>4.7</rantings>
+		<price>14.19</price>
+		<publish_date>January 1, 1996</publish_date>
+	</1>
+	<2>
+		<name>The Road to Serfdom</name>
+		<author>Hayek</author>
+		<rantings>4.7</rantings>
+		<price>63.96</price>
+		<publish_date>January 1, 2003</publish_date>
+	</2>
+	
